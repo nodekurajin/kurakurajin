@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@alvanero/tehpochi01": "^1.1.4",
+    "aingtea": "^1.0.3",
+    "jatimulyoteteh": "^1.1.1",
+    "kuranuxt": "^1.0.9",
+    "manehnatea": "^1.0.1",
+    "nodekurajintea": "^1.2.0",
+    "rejekiteteh": "^1.0.5"
+  },
+  "name": "kurakurajin",
+  "version": "1.0.2",
+  "description": "nodekurajin",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "kurakurajin"
+  ],
+  "author": "nodekurajin",
+  "license": "ISC"
+}
