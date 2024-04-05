@@ -6,13 +6,13 @@
     "kuranuxt": "^1.0.9",
     "manehnatea": "^1.0.1",
     "nodekurajintea": "^1.2.0",
-    "rejekiteteh": "^1.0.5"
+    "rejekiteteh": "^1.0.5",
+    "sawahkatayan": "^1.0.2"
   },
   "name": "kurakurajin",
   "version": "1.0.2",
   "description": "nodekurajin",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "node index.js"
   },
