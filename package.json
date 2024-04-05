@@ -20,5 +20,13 @@
     "kurakurajin"
   ],
   "author": "nodekurajin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekurajin/kurakurajin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodekurajin/kurakurajin/issues"
+  },
+  "homepage": "https://github.com/nodekurajin/kurakurajin#readme"
 }
