@@ -10,7 +10,7 @@
     "sawahkatayan": "^1.0.2"
   },
   "name": "kurakurajin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nodekurajin",
   "main": "index.js",
   "scripts": {
